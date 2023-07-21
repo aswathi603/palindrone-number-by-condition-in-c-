@@ -1,0 +1,1 @@
+# palindrone-number-by-condition-in-c-
